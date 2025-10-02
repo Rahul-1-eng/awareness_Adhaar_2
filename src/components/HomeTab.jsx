@@ -1,0 +1,1 @@
+export default function HomeTab({ setActiveTab }) { return <div>Home Tab Content</div>; }

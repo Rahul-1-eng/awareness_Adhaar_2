@@ -1,0 +1,1 @@
+export default function ScholarshipTab() { return <div>Scholarship Tab Content</div>; }
